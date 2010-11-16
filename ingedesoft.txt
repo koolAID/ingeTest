@@ -1,0 +1,7 @@
+Crear una cuenta y repositorio en Github www.github.com
+
+- guardar algunos archivos en este repositorio
+- mostrar los comandos que utilizaron
+- crear una rama y luego unir esta rama a master
+- especificar el enlace a su repositorio github (www.github.com/usuario/repositorio)
+- para miercoles 17/11/2010
