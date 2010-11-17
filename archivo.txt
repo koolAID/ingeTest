@@ -1,4 +1,0 @@
-root root c:/,d:/,c:/poo,d:/pee,c:/ins,d:/ins 3:00-3:30,5:00-5:10,4:00-4:30,6:00-6:10,7:00-7:30,9:00-9:10
-admin pedro,pablo,juan c:/,d:/ 3:00-3:30,5:00-5:10
-bin roberto,bruno,ricardo c:/ins,d:/ins 7:00-7:30,9:00-9:10
-mail xime,andrea,adriana c:/poo,d:/pee 4:00-4:30,6:00-6:10
